@@ -1,4 +1,5 @@
 # 💵 Dólar Blue Scraper
+# [Cotización del Dólar Blue](captura.png)
 
 Herramienta desarrollada en **Python** que obtiene de forma automática la cotización del **dólar blue** (compra y venta) desde distintos portales financieros de Argentina, y la muestra en una ventana simple mediante una interfaz gráfica.
 
