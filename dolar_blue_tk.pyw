@@ -4,7 +4,6 @@
 # Versión: 2024
 # 
 
-
 import requests
 from bs4 import BeautifulSoup
 import json
@@ -71,7 +70,7 @@ def parseo_dolarHoy(content):
 
 def mostrar_resultados(resultados):
     ventana = tk.Tk()
-    ventana.title("Cotización del Dólar Blue - Lorena Sánchez - 2024")
+    ventana.title("Cotización del Dólar Blue  //    autor: Lorena Sánchez")
     texto_resultados = tk.Text(ventana, height=10, width=50)
     texto_resultados.pack(pady=10)
     for fuente, valores in resultados.items():
